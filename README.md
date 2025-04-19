@@ -1,36 +1,38 @@
-# 👋 Hi, I'm Os
-
-I’m an independent creator building open-source tools that simplify visual workflows for designers, developers, and digital makers.
-
-🔧 Currently building:
-- 🖼️ [**OsCrop**](https://github.com/osmanvision/OsCrop): Background remover + smart object cropper for creators & devs.
-- ⌨️ OsBoard *(coming soon)*: A minimal custom keyboard for mobile with expressive stickers, AI input & more.
+[![OsCrop banner](https://github.com/osmanvision/OsCrop/blob/main/oscrop_banner.png)](https://github.com/osmanvision/OsCrop)
 
 ---
 
-### 🛠 Tech Stack
-- **Languages**: Python, a little bit of everything else
-- **Tools**: OpenCV, Pillow, rembg, GitHub, VS Code
-- **Focus**: Automation · Design systems · AI creativity tools
+### 👋 Hi, I'm **Os** — aka **Osman Vision**
+
+I’m a creator and builder who loves making tools that are clean, focused, and actually useful.
+
+- 🧑‍💻 I build open-source tools, scripts, and workflows
+- 🌐 Interested in creative automation, productivity, and visual content
+- ⚒️ Always experimenting with Python, minimal UX, and lightweight systems
 
 ---
 
-### 🧩 Featured Project
+### 🚀 My Projects
 
-[![OsCrop banner](https://github.com/osmanvision/OsCrop/raw/main/oscrop-banner.png)](https://github.com/osmanvision/OsCrop)
+🧩 Currently working on a **custom mobile keyboard** — focused on expressive stickers, clean UX, and future AI integration. This will evolve into a full experience with a bear-like assistant and smart tools built right into the keyboard — and much more.
 
-**OsCrop** is a background remover and object cropper for PNG, JPG, and WEBP — ideal for sticker makers, dataset curation, or digital assets.
+🛒 Also planning a thoughtfully designed grocery & essentials app — focused on smart organization, shared lists, and a smooth experience for everyday use.
 
-> Built with OpenCV, Pillow, and rembg  
-> 🔗 [Explore OsCrop](https://github.com/osmanvision/OsCrop)
+#### 🔹 [OsCrop](https://github.com/osmanvision/OsCrop)
+> Smart background remover & auto cropper for transparent + non-transparent images. Perfect for Telegram stickers, assets, datasets, and more.
 
----
-
-### 📬 Contact
-
-- Instagram: [@osman_vision](https://instagram.com/osman_vision)
-- Email: [heyosmanvision@gmail.com](mailto:heyosmanvision@gmail.com)
+- Supports PNG, JPG, WEBP
+- 512x512 clean output with padding
+- Built using Pillow + rembg + OpenCV
 
 ---
 
-🔧 Powered by Os • Built with vision.
+### 📬 Get in Touch
+
+- **Instagram**: [@osman_vision](https://www.instagram.com/osman_vision)
+- **Email**: heyosmanvision@gmail.com
+- **Discord**: `osman_vision`
+
+---
+
+🔧 Powered by **Os** • Built with vision
