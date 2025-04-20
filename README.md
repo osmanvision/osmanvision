@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/osmanvision/OsCrop/blob/main/oscrop_banner.png" width="100" alt="Os Logo"/>
+</p>
+
 [![OsCrop banner](https://github.com/osmanvision/OsCrop/blob/main/oscrop_banner.png)](https://github.com/osmanvision/OsCrop)
 
 ---
