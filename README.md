@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/osmanvision/OsCrop/blob/main/oscrop_banner.png" width="300" alt="Os Logo"/>
-</p>
-
----
-
 ### 👋 Hi, I'm **Os** — aka **Osman Vision**
 
 I’m a creator and builder who loves making tools that are clean, focused, and actually useful.
